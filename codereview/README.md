@@ -31,25 +31,25 @@ git commit -m "message"
 ex) git add .  ( .(dot)을 사용하면 변화가 있는 모든 파일을 반영한다.)
     git commit -m "seunguk solve baekjoon_1000 and add 1000.cpp file"
 ```
-![codereview 4](codereview_3.png)
+![codereview 4](codereview_4.png)
 
 5. 자신의 원격 저장소에 push 한다.
 ```
 git push origin 브랜치이름
 ex) git push origin master
 ```
-![codereview 5](codereview_4.png)
+![codereview 5](codereview_5.png)
 
 6. PR(pull request)를 보낸다.
 
 > 피드백을 받으면 코드를 수정한 후 add, commit, push 작업 반복.
 
-![codereview 6](codereview_5.png)
+![codereview 6](codereview_6.png)
 
 
 7. 리뷰어는 피드백을 마무리하고 KSU-CS-MICLab/algorithm-study 저장소에 merge한다. **(Owner인 사람만 해당)**
 
-![codereview 7](codereview_6.png)
+![codereview 7](codereview_7.png)
 
 8. merge가 완료했다는 통보를 받으면 브랜치 변경 및 브랜치 삭제(option)한다.
 ```
@@ -58,7 +58,7 @@ git branch -D {삭제할_브랜치이름}
 ex) git checkout master
 ex) git branch -D step1
 ```
-![codereview 8](codereview_6.png)
+![codereview 8](codereview_8.png)
 
 9. KSU-CS-MICLab/algorithm-study 저장소와 동기화하기 위해 저장소 추가 **(최소 1번만 실행)** [remote add]</br> KSU-CS-MICLab/algorithm-study 저장소에서 브랜치를 들고온다. [fetch]</br> KSU-CS-MICLab/algorithm-study 저장소와 동기화하기.[rebase]
    
