@@ -1,10 +1,11 @@
 # 코드 리뷰 과정
 
 1. 프로젝트를 자신의 계정으로 fork 한다.
+
 ![codereview 1_1](codereview_1_1.png)
-<hr/>
+
 ![codereview 1_2](codereview_1_2.png)
-<hr/>
+
 ![codereview 1_2](codereview_1_2.png)
 
 2. fork한 프로젝트를 local(자신의 컴퓨터)로 clone을 한 후 디렉토리로 이동한다. 
@@ -36,11 +37,15 @@ ex) git push origin master
 ![codereview 4](codereview_4.png)
 
 5. PR(pull request)를 보낸다.
+
 > 피드백을 받으면 코드를 수정한 후 add, commit, push 작업 반복.
+
 ![codereview 5_1](codereview_5_1.png)
+
 ![codereview 5_2](codereview_5_2.png)
 
 6. 리뷰어는 피드백을 마무리하고 KSU-CS-MICLab/algorithm-study 저장소에 merge한다. **(Owner인 사람만 해당)**
+
 ![codereview 6](codereview_6.png)
 
 7. KSU-CS-MICLab/algorithm-study 저장소와 동기화하기 위해 저장소 추가 **(최소 1번만 실행)**
