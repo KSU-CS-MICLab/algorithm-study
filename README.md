@@ -10,7 +10,7 @@ MIC Algorithm Study
 * **반드시** 주석이나 README.md를 통해 어떻게 생각하고 접근하여 풀었는지 간단하게라도 작성한다.
 * 어떤 알고리즘 또는 자료구조에 대해 공부하고 정리하여 올려도 좋다.
 * 위에 소개된 **코드 리뷰 과정**을 따른다.
-> * Baekjoon/ 폴더에는 https://www.acmicpc.net/ 에서 푼 문제들만 다룬다.
+* Baekjoon/ 폴더에는 https://www.acmicpc.net/ 에서 푼 문제들만 다룬다.
 
     - Baekjoon/ 폴더 구조는 다음과 같다.
     - Baekjoon/ 밑에 "문제번호" 폴더를 만들고 "이름" 폴더를 만들어 소스파일을 올린다. ex) Baekjoon/1000/seunguklee/1000.cpp
