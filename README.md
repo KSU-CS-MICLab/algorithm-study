@@ -3,7 +3,7 @@ MIC Algorithm Study
 
 ----
 **반드시** 코드 리뷰 과정을 숙지할 것!!
-* [코드 리뷰 과정](https://github.com/ksu-cs-miclab/algorithm-study/codereview/README.md)
+* [코드 리뷰 과정](https://github.com/KSU-CS-MICLab/algorithm-study/blob/master/codereview/README.md)
 ----
 ## 규칙
 * 일주일에 **1~2문제** 풀어서 올린다. 
