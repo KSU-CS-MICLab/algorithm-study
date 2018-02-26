@@ -60,19 +60,19 @@ ex) git branch -D step1
 ```
 ![codereview 8](codereview_6.png)
 
-9. KSU-CS-MICLab/algorithm-study 저장소와 동기화하기 위해 저장소 추가 **(최소 1번만 실행)** </br> KSU-CS-MICLab/algorithm-study 저장소에서 브랜치를 들고온다. </br> KSU-CS-MICLab/algorithm-study 저장소와 동기화하기.
+9. KSU-CS-MICLab/algorithm-study 저장소와 동기화하기 위해 저장소 추가 **(최소 1번만 실행)** [remote add]</br> KSU-CS-MICLab/algorithm-study 저장소에서 브랜치를 들고온다. [fetch]</br> KSU-CS-MICLab/algorithm-study 저장소와 동기화하기.[rebase]
    
-``` [저장소_추가]
+```
 git remote add {저장소_별칭} {base_저장소_url}
 ex) git remote add upstream https://github.com/KSU-CS-MICLab/algorithm-study.git
 // 위와 같이 upstream으로 저장소를 추가한 후 전체 remote 저장소 목록을 본다.
 git remote -v
 ``` 
-``` [브랜치_들고온다]
+```
 git fetch upstream {브랜치_이름}
 ex) git fetch upstream master
 ```
-``` [동기화]
+```
 git rebase upstream/{브랜치_이름}
 ex) git rebase upstream/master
 ```
