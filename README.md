@@ -5,6 +5,10 @@ MIC Algorithm Study
 **반드시** 코드 리뷰 과정을 숙지할 것!!
 * [코드 리뷰 과정](https://github.com/KSU-CS-MICLab/algorithm-study/blob/master/codereview/README.md)
 ----
+## Algorithm Problem Solving Roadmap
+* [알고리즘 로드맵 참고](https://github.com/KSU-CS-MICLab/algorithm-study/blob/master/roadmap/README.md)
+
+----
 ## 규칙
 * 일주일에 **1~2문제** 풀어서 올린다. 
 * **반드시** 주석이나 README.md를 통해 어떻게 생각하고 접근하여 풀었는지 간단하게라도 작성한다.
