@@ -2,12 +2,15 @@
 MIC Algorithm Study
 
 ----
+## 코드 리뷰 과정
 **반드시** 코드 리뷰 과정을 숙지할 것!!
 * [코드 리뷰 과정](https://github.com/KSU-CS-MICLab/algorithm-study/blob/master/codereview/README.md)
 ----
 ## Algorithm Problem Solving Roadmap
 * [알고리즘 로드맵 참고](https://github.com/KSU-CS-MICLab/algorithm-study/blob/master/roadmap/README.md)
-
+----
+## 알고리즘 및 자료구조 분류
+* [해당 링크](https://github.com/KSU-CS-MICLab/algorithm-study/blob/master/tags/README.md)에서 알고리즘 및 자료구조를 분류해놓은것을 확인할 수 있다. 
 ----
 ## 규칙
 * 일주일에 **1~2문제** 풀어서 올린다. 
@@ -41,6 +44,7 @@ MIC Algorithm Study
 ----
 ## 진행방법
 1. 각자 알고리즘 문제 사이트에서 풀 문제를 정한다. (1주일에 1~2문제)
-2. 문제를 풀어서 PR(pull request)를 날려 피드백을 받는다.
-3. 피드백을 통해 개선할 점이 필요하면 개선하여 수정하여 다시 올린다.
+2. 해당 문제의 태그를 /tags/README.md 에 추가한다.
+3. 문제를 풀어서 PR(pull request)를 날려 피드백을 받는다.
+4. 피드백을 통해 개선할 점이 필요하면 개선하여 수정하여 다시 올린다.
 
